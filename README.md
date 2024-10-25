@@ -11,7 +11,7 @@ graph TD;
   B --> C[Get Departure and Arrival Times];
   C --> D[Get Airfare Amount];
   D --> E[Get Car Rental Amount];
-  E --> F[Calculate Private Vehicle Expense (if applicable)];
+  E --> F[Calculate Vehicle Expense, if applicable];
   F --> G[Get Parking Fees];
   G --> H[Get Taxi Fees];
   H --> I[Get Conference Fees];
