@@ -1,10 +1,10 @@
-# Program Name
-Team member 1, Team member 2, Team member 3
+# Chapter 6 Team Challenge: Travel Expenses
+Cole, Jadon, and Jullian
 
-## <program_name> Description
+## Chapter 6 Team Challenge: Travel Expenses Description
 Here is where you describe what the program does
 
-### <program_name> Flowchart
+### Chapter 6 Team Challenge: Travel Expenses Flowchart
 ```mermaid
 graph TD;
   A-->B;
