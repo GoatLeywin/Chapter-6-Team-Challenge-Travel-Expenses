@@ -24,7 +24,7 @@ graph TD;
 
 #### Function Diagrams
 
-| `get_trip_days`    |               |  Cole       |
+| `get_trip_days`    |               |  Jullian       |
 | ------------------ | ------------- | ------------ |
 | `days:int`         | takes input for the number of days on the trip | returns days as integer |
 ***
@@ -33,7 +33,7 @@ graph TD;
 | `departure:time`   | takes input for departure time on the first day  | returns time in 24-hour format |
 | `arrival:time`     | takes input for arrival time on the last day  | returns time in 24-hour format |
 ***
-| `get_expenses`     |               |  Jullian    |
+| `get_expenses`     |               |  Cole    |
 | ------------------ | ------------- | ------------ |
 | `airfare:float`    | takes input for airfare amount  | returns airfare amount |
 | `car_rental:float` | takes input for car rental amount | returns car rental amount |
