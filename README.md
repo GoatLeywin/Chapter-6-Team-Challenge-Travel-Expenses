@@ -30,8 +30,8 @@ graph TD;
 ***
 | `get_trip_times`   |               |  Jadon      |
 | ------------------ | ------------- | ------------ |
-| `departure:time`   | takes input for departure time on the first day  | returns time in 24-hour format |
-| `arrival:time`     | takes input for arrival time on the last day  | returns time in 24-hour format |
+| `departure:int`   | takes input for departure time on the first day  | returns time in 24-hour format |
+| `arrival:int`     | takes input for arrival time on the last day  | returns time in 24-hour format |
 ***
 | `get_expenses`     |               |  Cole    |
 | ------------------ | ------------- | ------------ |
