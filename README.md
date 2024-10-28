@@ -52,6 +52,6 @@ graph TD;
 | ------------------ | ------------- | ------------ |
 | `meals:dict`       | takes input for each allowable meal cost based on departure and arrival times | returns total meal expenses exceeding allowance |
 ***
-| `calculate_total`  |               |  Cole       |
+| `calculate_total`  |               |  Jadon       |
 | ------------------ | ------------- | ------------ |
 | `expenses:float`   | calculates total expenses and total allowable | returns excess cost and savings
