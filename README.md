@@ -24,11 +24,11 @@ graph TD;
 
 #### Function Diagrams
 
-| `get_trip_days`    |               |  Jullian       |
+| `get_trip_days`    |               |  Jadon       |
 | ------------------ | ------------- | ------------ |
 | `days:int`         | takes input for the number of days on the trip | returns days as integer |
 ***
-| `get_trip_times`   |               |  Jadon      |
+| `get_trip_times`   |               |  Jullian      |
 | ------------------ | ------------- | ------------ |
 | `departure:int`   | takes input for departure time on the first day  | returns time in 24-hour format |
 | `arrival:int`     | takes input for arrival time on the last day  | returns time in 24-hour format |
