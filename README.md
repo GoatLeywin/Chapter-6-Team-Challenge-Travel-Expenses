@@ -48,7 +48,7 @@ graph TD;
 | ------------------ | ------------- | ------------ |
 | `hotel:float`      | takes input for hotel expenses | returns total lodging costs exceeding $90/night |
 ***
-| `get_meal_costs`   |               |  Jullian    |
+| `get_meal_costs`   |               |  Jadon    |
 | ------------------ | ------------- | ------------ |
 | `meals:dict`       | takes input for each allowable meal cost based on departure and arrival times | returns total meal expenses exceeding allowance |
 ***
