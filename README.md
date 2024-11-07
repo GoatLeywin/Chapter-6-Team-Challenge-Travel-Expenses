@@ -35,18 +35,18 @@ graph TD;
 ***
 | `get_expenses`     |               |  Cole    |
 | ------------------ | ------------- | ------------ |
-| `airfare:float`    | takes input for airfare amount  | returns airfare amount |
-| `car_rental:float` | takes input for car rental amount | returns car rental amount |
+| `airfare:double`    | takes input for airfare amount  | returns airfare amount |
+| `car_rental:double` | takes input for car rental amount | returns car rental amount |
 | `miles:int`        | takes input for miles driven (if private vehicle used) | returns total vehicle expense at $0.27/mile |
 ***
 | `get_fees`         |               |  Cole       |
 | ------------------ | ------------- | ------------ |
-| `parking:float`    | takes input for daily parking fees | returns total parking costs exceeding $6/day |
-| `taxi:float`       | takes input for daily taxi fees | returns total taxi costs exceeding $10/day |
+| `parking:double`    | takes input for daily parking fees | returns total parking costs exceeding $6/day |
+| `taxi:double`       | takes input for daily taxi fees | returns total taxi costs exceeding $10/day |
 ***
 | `get_lodging`      |               |  Jadon      |
 | ------------------ | ------------- | ------------ |
-| `hotel:float`      | takes input for hotel expenses | returns total lodging costs exceeding $90/night |
+| `hotel:double`      | takes input for hotel expenses | returns total lodging costs exceeding $90/night |
 ***
 | `get_meal_costs`   |               |  Jadon    |
 | ------------------ | ------------- | ------------ |
@@ -54,4 +54,4 @@ graph TD;
 ***
 | `calculate_total`  |               |  Jadon       |
 | ------------------ | ------------- | ------------ |
-| `expenses:float`   | calculates total expenses and total allowable | returns excess cost and savings
+| `expenses:double`   | calculates total expenses and total allowable | returns excess cost and savings
