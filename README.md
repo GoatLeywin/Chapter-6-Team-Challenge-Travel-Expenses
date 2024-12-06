@@ -24,7 +24,7 @@ graph TD;
 
 #### Function Diagrams
 
-| `get_trip_days`    |               |  Jadon       |
+| `get_trip_days`    |               |  Jullian       |
 | ------------------ | ------------- | ------------ |
 | `days:int`         | takes input for the number of days on the trip | returns days as integer |
 ***
@@ -48,7 +48,7 @@ graph TD;
 | ------------------ | ------------- | ------------ |
 | `hotel:double`      | takes input for hotel expenses | returns total lodging costs exceeding $90/night |
 ***
-| `get_meal_costs`   |               |  Jadon    |
+| `get_meal_costs`   |               |  Jullian    |
 | ------------------ | ------------- | ------------ |
 | `meals:dict`       | takes input for each allowable meal cost based on departure and arrival times | returns total meal expenses exceeding allowance |
 ***
